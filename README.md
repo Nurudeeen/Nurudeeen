@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Nurudeeen
-- 👀 I’m interested in embedded systems, web backend architectures and computer vision
-- 🌱 I’m currently learning Golang, Nest and Typescript
-- 💞️ I’m looking to collaborate on any backend and computer vision projects
+- 👀 I’m a software engineer with extensive experience working with servers and web backend infrastructures
+- 🌱 My favorite stacks are Node JS, Sails JS, Express and Nest JS.
+- 💎 I have worked with ORMs such as Sequelize and Prisma for SQL and Mongoose for No-SQL databases
+- 💞️ I’m looking to collaborate on interesting projects that solves problems and real life challenges.
 - 📫 How to reach me: nurudeenrabiu81@gmail.com
 
 <!---
